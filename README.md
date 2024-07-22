@@ -24,7 +24,7 @@ This project processes a bird species dataset, extracts embeddings using a pretr
 
 1.	Download the bird species dataset from Kaggle:
 
-Go to the Kaggle dataset page and download the dataset: (link)[https://www.kaggle.com/datasets/gpiosenka/100-bird-species]
+Go to the Kaggle dataset page and download the dataset: [link](https://www.kaggle.com/datasets/gpiosenka/100-bird-species])
 
 2.	Extract the dataset:
 
