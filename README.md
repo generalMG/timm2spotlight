@@ -34,13 +34,12 @@ Extract the downloaded dataset into the data directory within the project folder
 bird-species-visualization/
 ├── data/
 │   ├── birds.csv
-│   └── images/
-│       ├── test/
-│       │   ├── birdClass1/
-│       │   │   └── bird1.jpg...
-│       │   └── birdClass2/...
-│       ├── train/
-│       └── valid/
+│   ├── test/
+│   │   ├── birdClass1/
+│   │   │   └── bird1.jpg...
+│   │   └── birdClass2/...
+│   ├── train/
+│   └── valid/
 ├── dataset.py
 ├── spotlight_visualization.py
 └── README.md
