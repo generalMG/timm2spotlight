@@ -35,9 +35,10 @@ bird-species-visualization/
 ├── data/
 │   ├── birds.csv
 │   └── images/
-│       ├── bird1.jpg
-│       ├── bird2.jpg
-│       └── ...
+│       ├── test
+│       ├── train
+│       └── valid
+│           └── bird1.jpg...
 ├── dataset.py
 ├── spotlight_visualization.py
 └── README.md
