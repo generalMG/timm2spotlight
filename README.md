@@ -1,4 +1,4 @@
-<img width="3120" alt="screenshot_visualizatrion" src="https://github.com/user-attachments/assets/d71d60d1-73f7-43e5-9367-915e5038c6d1"># Bird Species Embedding and Visualization using TIMM2Spotlight
+# Bird Species Embedding and Visualization using TIMM2Spotlight
 
 This project processes a bird species dataset, extracts embeddings using a pretrained model, and visualizes the results using Renumics Spotlight.
 
@@ -70,6 +70,6 @@ After running the script, the visualization will automatically launch in Renumic
 
 Visualization Example
 
-![Uploading screenshot_visualizatrion.png…](Visualization Example Figure)
+![<img width="3120" alt="screenshot_visualizatrion" src="https://github.com/user-attachments/assets/d71d60d1-73f7-43e5-9367-915e5038c6d1">](Visualization Example Figure)
 
 
