@@ -70,6 +70,6 @@ After running the script, the visualization will automatically launch in Renumic
 
 Visualization Example
 
-![<img width="3120" alt="screenshot_visualizatrion" src="https://github.com/user-attachments/assets/d71d60d1-73f7-43e5-9367-915e5038c6d1">](Visualization Example Figure)
+<img width="3120" alt="screenshot_visualizatrion" src="https://github.com/user-attachments/assets/d71d60d1-73f7-43e5-9367-915e5038c6d1">
 
 
