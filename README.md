@@ -1,4 +1,4 @@
-# Bird Species Embedding and Visualization using TIMM2Spotlight
+<img width="3120" alt="screenshot_visualizatrion" src="https://github.com/user-attachments/assets/d71d60d1-73f7-43e5-9367-915e5038c6d1"># Bird Species Embedding and Visualization using TIMM2Spotlight
 
 This project processes a bird species dataset, extracts embeddings using a pretrained model, and visualizes the results using Renumics Spotlight.
 
@@ -67,4 +67,9 @@ The script will create a file named bird_dataset_predictions.csv in the project 
 1.	Visualize the results with Renumics Spotlight:
 
 After running the script, the visualization will automatically launch in Renumics Spotlight, displaying the images and their embeddings.
+
+Visualization Example
+
+![Uploading screenshot_visualizatrion.png…](Visualization Example Figure)
+
 
