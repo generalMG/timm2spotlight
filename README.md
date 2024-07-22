@@ -8,7 +8,6 @@ This project processes a bird species dataset, extracts embeddings using a pretr
 - [Download Dataset](#download-dataset)
 - [Usage](#usage)
 - [Visualization](#visualization)
-- [Acknowledgements](#acknowledgements)
 
 ## Installation
 
@@ -21,7 +20,7 @@ This project processes a bird species dataset, extracts embeddings using a pretr
 
 2.	Create and activate a virtual environment. Install all requirements.
 
-## Download Datase
+## Download Dataset
 
 1.	Download the bird species dataset from Kaggle:
 
